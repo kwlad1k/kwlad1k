@@ -3,12 +3,12 @@
 <h3 align="center">:computer: Full Stack QA Engineer</h3>
 
 
-### 👨🏻‍💻 &nbsp;О себе <img src="media/gif/gif.gif" align="right" width="150" height="150"/>
+## 👨🏻‍💻 &nbsp;О себе <img src="media/gif/gif.gif" align="right" width="150" height="150"/>
 
 - 💬 Я Full Stack QA Engineer с более чем 4-летним практическим опытом работы ручного тестирования Web, Mobile Apps и API.
 - 💼 Работаю в компании [**DropsTab**](https://dropstab.com/) в роли Lead QA Engineer
 
-## Мои технические навыки
+## :mortar_board: Мои технические навыки
 <p align="center">
 <a href="https://www.java.com/"><img width="6%" title="Java" src="media/logos/Java.svg"></a>
 <a href="https://github.com/"><img width="6%" title="GitHub" src="media/logos/GitHub.svg"></a> 
