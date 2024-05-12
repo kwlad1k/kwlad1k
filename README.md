@@ -7,7 +7,7 @@
 - 💬 Я Full Stack QA Engineer с более чем 4-летним практическим опытом работы ручного тестирования Web, Mobile Apps и API.
 - 💼 Работаю в компании [**DropsTab**](https://dropstab.com/) в роли Lead QA Engineer
 
-**Мои технические навыки**
+## Мои технические навыки
 <p align="center">
 <a href="https://www.java.com/"><img width="6%" title="Java" src="media/logos/Java.svg"></a>
 <a href="https://github.com/"><img width="6%" title="GitHub" src="media/logos/GitHub.svg"></a> 
@@ -22,6 +22,7 @@
 <a href="https://qameta.io/"><img width="5%" title="Allure TestOps" src="media/logos/AllureTestOps.svg"></a> 
 <a href="https://www.atlassian.com/ru/software/jira/"><img width="5%" title="Jira" src="media/logos/Jira.svg"></a>
 </p>
+
 + **Автомтизированное тестирование:** Java, Selenide, Gradle, JUnit5, REST-assured, Jenkins, Selenoid, Allure
 + **Нагрузочное тестирование:** JMeter, Lighthouse in Chrome DevTools
 + **Инструменты тестирования** Postman, Swagger, DevTools, Figma, Charles, Browserstack
