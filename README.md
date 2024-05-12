@@ -27,7 +27,7 @@
 + **Нагрузочное тестирование:** JMeter, Lighthouse in Chrome DevTools
 + **Инструменты тестирования:** Postman, Swagger, DevTools, Figma, Charles, Browserstack
 
-## Мои проекты
+## :stars: Мои проекты
 <a href="https://github.com/kwlad1k/DromUITests">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kwlad1k&repo=DromUITests&theme=dark#gh-dark-mode-only" />
 </a> 
