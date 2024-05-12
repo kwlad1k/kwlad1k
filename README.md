@@ -41,6 +41,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kwlad1k&theme=dark#gh-dark-mode-only)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kwlad1k&theme=dark#gh-dark-mode-only)
 
+##
 <p align="center">
     <a href="https://t.me/kwlad1ck" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/@Kwlad1ck-26A5E4.svg?style=flat&logo=telegram&logoColor=white" height="20"></a>
     <a href="https://github.com/kwlad1k" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="20"></a> 
