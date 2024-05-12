@@ -25,7 +25,15 @@
 
 + **Автомтизированное тестирование:** Java, Selenide, Gradle, JUnit5, REST-assured, Jenkins, Selenoid, Allure
 + **Нагрузочное тестирование:** JMeter, Lighthouse in Chrome DevTools
-+ **Инструменты тестирования** Postman, Swagger, DevTools, Figma, Charles, Browserstack
++ **Инструменты тестирования:** Postman, Swagger, DevTools, Figma, Charles, Browserstack
+
+## Мои проекты
+<a href="https://github.com/kwlad1k/DromUITests">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kwlad1k&repo=DromUITests=dracula" />
+</a>
+<a href="https://github.com/kwlad1k/DropsTabApiTests">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kwlad1k&repo=DropsTabApiTests&theme=dracula" />
+</a> 
 
 <!--
 **kwlad1k/kwlad1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
