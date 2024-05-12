@@ -3,7 +3,7 @@
 <h3 align="center">:computer: Full Stack QA Engineer</h3>
 
 
-## 👨🏻‍💻 &nbsp;О себе <img src="media/gif/Skill.gif" align="right" width="130" height="160"/>
+## 👨🏻‍💻 &nbsp;О себе <img src="media/gif/Skill.gif" align="right" width="140" height="180"/>
 
 - 💬 Я Full Stack QA Engineer с более чем 4-летним практическим опытом работы ручного тестирования Web, Mobile Apps и API.
 - 💼 Работаю в компании [**DropsTab**](https://dropstab.com/) в роли Lead QA Engineer
