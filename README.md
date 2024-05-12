@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Billy Milligan
+<h1 align="center">Йо, я <a href="https://github.com/kwlad1k" target="_blank">Влад</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"></h3>
 
