@@ -2,6 +2,30 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">:computer: Full Stack QA Engineer</h3>
 
+### О себе
+
+- 💬 Я Full Stack QA Engineer с более чем 4-летним практическим опытом работы ручного тестирования Web, Mobile Apps и API.
+- 💼 Работаю в компании [**DropsTab**](https://dropstab.com/) в роли Lead QA Engineer
+
+**Мои технические навыки**
+<p align="center">
+<a href="https://www.java.com/"><img width="6%" title="Java" src="media/logos/Java.svg"></a>
+<a href="https://github.com/"><img width="6%" title="GitHub" src="media/logos/GitHub.svg"></a> 
+<a href="https://www.jetbrains.com/idea/"><img width="6%" title="IntelliJ IDEA" src="media/logos/IntelijIDEA.svg"></a> 
+<a href="https://selenide.org/"><img width="6%" title="Selenide" src="media/logos/Selenide.svg"></a> 
+<a href="https://gradle.org/"><img width="6%" title="Gradle" src="media/logos/Gradle.svg"></a>
+<a href="https://junit.org/junit5/"><img width="6%" title="JUnit5" src="media/logos/JUnit5.svg"></a>
+<a href="https://www.jenkins.io/"><img width="6%" title="Jenkins" src="media/logos/Jenkins.svg"></a>
+<a href="https://aerokube.com/selenoid/"><img width="6%" title="Selenoid" src="media/logos/Selenoid.svg"></a> 
+<a href="https://github.com/allure-framework/allure2"><img width="6%" title="Allure Report" src="media/logos/AllureReport.svg"></a>
+<a href="https://telegram.org/"><img width="6%" title="Telegram" src="media/logos/Telegram.svg"></a> 
+<a href="https://qameta.io/"><img width="5%" title="Allure TestOps" src="media/logos/AllureTestOps.svg"></a> 
+<a href="https://www.atlassian.com/ru/software/jira/"><img width="5%" title="Jira" src="media/logos/Jira.svg"></a>
+</p>
++ **Автомтизированное тестирование:** Java, Selenide, Gradle, JUnit5, REST-assured, Jenkins, Selenoid, Allure
++ **Нагрузочное тестирование:** JMeter, Lighthouse in Chrome DevTools
++ **Инструменты тестирования** Postman, Swagger, DevTools, Figma, Charles, Browserstack
+
 <!--
 **kwlad1k/kwlad1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
