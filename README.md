@@ -1,6 +1,6 @@
 <h1 align="center">Йо, я <a href="https://github.com/kwlad1k" target="_blank">Влад</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"></h3>
+<h3 align="center"></h3> :computer: Full Stack QA Engineer
 
 <!--
 **kwlad1k/kwlad1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
