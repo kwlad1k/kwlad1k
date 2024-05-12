@@ -27,13 +27,6 @@
 + **Нагрузочное тестирование:** JMeter, Lighthouse in Chrome DevTools
 + **Инструменты тестирования:** Postman, Swagger, DevTools, Figma, Charles, Browserstack
 
-<p align="center">
-    <a href="https://t.me/kwlad1ck" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/@Kwlad1ck-26A5E4.svg?style=flat&logo=telegram&logoColor=white" height="20"></a>
-    <a href="https://github.com/kwlad1k" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="20"></a> 
-    <a href="https://www.linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" height="20"></a>
-    <a href="https://career.habr.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/habr career-%2377A2B6.svg?&style=for-the-badge&logo=habr&logoColor=white" height="20"></a>
-</p>
-
 ## :stars: Мои проекты
 <a href="https://github.com/kwlad1k/DromUITests">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kwlad1k&repo=DromUITests&theme=dark#gh-dark-mode-only" />
@@ -47,6 +40,14 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwlad1k&theme=dark#gh-dark-mode-only)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kwlad1k&theme=dark#gh-dark-mode-only)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kwlad1k&theme=dark#gh-dark-mode-only)
+
+## :calling: Контакты
+<p align="center">
+    <a href="https://t.me/kwlad1ck" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/@Kwlad1ck-26A5E4.svg?style=flat&logo=telegram&logoColor=white" height="20"></a>
+    <a href="https://github.com/kwlad1k" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="20"></a> 
+    <a href="https://ru.linkedin.com/in/kwlad1ck/ru" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" height="20"></a>
+    <a href="https://career.habr.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/habr career-%2377A2B6.svg?&style=for-the-badge&logo=habr&logoColor=white" height="20"></a>
+</p>
 <!--
 **kwlad1k/kwlad1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
