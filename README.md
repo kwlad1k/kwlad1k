@@ -29,8 +29,8 @@
 
 ## Мои проекты
 <a href="https://github.com/kwlad1k/DromUITests">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kwlad1k&repo=DromUITests=dracula" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kwlad1k&repo=DromUITests&theme=dracula" />
+</a> 
 <a href="https://github.com/kwlad1k/DropsTabApiTests">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kwlad1k&repo=DropsTabApiTests&theme=dracula" />
 </a> 
