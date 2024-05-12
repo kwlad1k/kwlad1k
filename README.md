@@ -29,12 +29,19 @@
 
 ## Мои проекты
 <a href="https://github.com/kwlad1k/DromUITests">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kwlad1k&repo=DromUITests&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kwlad1k&repo=DromUITests&theme=dark#gh-dark-mode-only" />
 </a> 
 <a href="https://github.com/kwlad1k/DropsTabApiTests">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kwlad1k&repo=DropsTabApiTests&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kwlad1k&repo=DropsTabApiTests&theme=dark#gh-dark-mode-only" />
 </a> 
 
+## :full_moon_with_face: Моя статистика в GitHub
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwlad1k&theme=dark#gh-dark-mode-only)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kwlad1k&theme=dark#gh-dark-mode-only)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kwlad1k&theme=dark#gh-dark-mode-only)
 <!--
 **kwlad1k/kwlad1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
