@@ -2,13 +2,14 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">:computer: Full Stack QA Engineer</h3>
 
-
 ## 👨🏻‍💻 &nbsp;О себе <img src="media/gif/Skill.gif" align="right" width="135" height="155"/>
 
-- 💬 Я Full Stack QA Engineer с более чем 4-летним практическим опытом работы ручного тестирования Web, Mobile Apps и API.
+- 💬 Я Full Stack QA Engineer с более чем 4-летним практическим опытом работы ручного тестирования Web, Mobile Apps и
+  API.
 - 💼 Работаю в компании [**DropsTab**](https://dropstab.com/) в роли Lead QA Engineer
 
 ## :mortar_board: Мои технические навыки
+
 <p align="center">
 <a href="https://www.java.com/"><img width="6%" title="Java" src="media/logos/Java.svg"></a>
 <a href="https://github.com/"><img width="6%" title="GitHub" src="media/logos/GitHub.svg"></a> 
@@ -28,6 +29,7 @@
 + **Инструменты тестирования:** Postman, Swagger, DevTools, Figma, Charles, Browserstack
 
 ## :stars: Мои проекты
+
 <a href="https://github.com/kwlad1k/DromUITests">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kwlad1k&repo=DromUITests&theme=dark#gh-dark-mode-only" />
 </a> 
@@ -42,6 +44,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kwlad1k&theme=dark#gh-dark-mode-only)
 
 ##
+
 <p align="center">
     <a href="https://t.me/kwlad1ck" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/@Kwlad1ck-26A5E4.svg?style=flat&logo=telegram&logoColor=white" height="20"></a>
     <a href="https://github.com/kwlad1k" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="20"></a> 
