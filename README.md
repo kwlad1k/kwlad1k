@@ -24,7 +24,7 @@
 <a href="https://www.atlassian.com/ru/software/jira/"><img width="5%" title="Jira" src="media/logos/Jira.svg"></a>
 </p>
 
-+ **Автомтизированное тестирование:** Java, Selenide, Gradle, JUnit5, REST-assured, Jenkins, Selenoid, Allure
++ **Автоматизированное тестирование:** Java, Selenide, Gradle, JUnit5, REST-assured, Jenkins, Selenoid, Allure
 + **Нагрузочное тестирование:** JMeter, Lighthouse in Chrome DevTools
 + **Инструменты тестирования:** Postman, Swagger, DevTools, Figma, Charles, Browserstack
 
